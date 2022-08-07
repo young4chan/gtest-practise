@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220807-1647-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.19.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="yang-mmt"
+	OSRelease="5.11.16-051116-generic"
+	OSVersion="#202104211235 SMP Wed Apr 21 12:39:24 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15729"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2800"
+	>
+	<Testing>
+		<StartDateTime>Aug 08 00:47 CST</StartDateTime>
+		<StartTestTime>1659890875</StartTestTime>
+		<TestList>
+			<Test>./TestName.Subtest_1</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestName.Subtest_1</Name>
+			<Path>.</Path>
+			<FullName>./TestName.Subtest_1</FullName>
+			<FullCommandLine>/media/yang/momenta/momenta/project/test/gtestpractise/prac2/build/hello_test "--gtest_filter=TestName.Subtest_1" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00166152</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/media/yang/momenta/momenta/project/test/gtestpractise/prac2/build/hello_test "--gtest_filter=TestName.Subtest_1" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkD0LwkAMhvf7FRnt0GJXoUNBcRCqtDqVIidGObgmcpfq37cfVFQUfaeEPEneJGPBGSyZzxZhi17gZKygg6TPMl1jVDQHaeN9rMrkoQryhsjQGWKQvs9xPca+MYKRKsOHKlhaPmg71JGuxjHVSC2LEjaXN/h55uhDlZDvMuhVfXKXnjrj2nt0YphaftB69ZGHyRRqH/xePIAgLNoG6r+rBLULj3yj1599+xU4TdHrntb9Ji2Kxby7dmAjdQcbm4Te====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 08 00:47 CST</EndDateTime>
+		<EndTestTime>1659890875</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

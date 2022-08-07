@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/media/yang/momenta/momenta/project/test/gtestpractise/prac1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
